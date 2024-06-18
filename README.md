@@ -4,11 +4,11 @@ AI en Islam
 
 Met dit nieuwe project wordt de kracht van AI gecombineert met de rijke, culturele en traditionele waaardes van de Islam. Het doel is om unieke, Islamitisch geïnspireerde patronen te creëren met behulp van kunstmatige intelligentie. Ik heb inspiratie gevonden in verschillende Instagram-kanalen die kleding en gebouwen delen, allemaal geworteld in onze Islamitische cultuur.
 
-Inspiratie bron 1
-https://www.instagram.com/reel/C5g9kveiTgL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+Inspiratie bron 1  
+https://www.instagram.com/reel/C5g9kveiTgL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==  
 
-Inspiratie bron 2
-https://www.turkevi.biz/ deze insta account werkt niet meer maar de foto's staan op de site
+Inspiratie bron 2  
+https://www.instagram.com/turkevi.biz/  
 
 Wat ik voor ogen heb:
 
