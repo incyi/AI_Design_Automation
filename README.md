@@ -1,30 +1,28 @@
 # AI_Design_Automation
  
-[4-6-2024 12:55] : Broeders, ik wil een nieuw project starten.
-
 AI en Islam
-[4-6-2024 12:55] : Ik wil Islamitisch geinspireerde patronen genereren met AI.
-[4-6-2024 12:55] : Ik heb een aantal instagram kanalen gevonden, één deelt kleding de andere deelt gebouwen. Beiden gebasseerd op onze eigen islamitische achtergrond.
-[4-6-2024 12:55] : Kanaal 1
-https://www.instagram.com/reel/C5g9kveiTgL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
-(deze gebruiker maakt telkens een nieuwe account, ik heb nog geen idee waarom)
-[4-6-2024 12:55] : https://www.turkevi.biz/ deze insta account werkt ook niet meer maar de foto's staan op de site
-[4-6-2024 12:55] : mocht je interesse hebben om mee te doen, reageer prive.
-[4-6-2024 12:55] : Het gaat mij meer om de gebruikte technieken, ik wil het volgende doen.
 
-- Github repository met alle code open source, inclusief de gebruikte invoer script en resultaat opgeslagen als gegenereerde foto's.
-- Jenkins / github actions in de cloud om het allemaal te automatiseren. Gebasseerd op tijd maar ook de laatste trends op verschillende social media, nieuwsbladen, zoek machines en webshops.
-- Deels gebaseerd op tijd, heel veel AI tools kan je een aantal keren per dag gebruiken. Ik wil dat ik onbeperkt heb. En dat kan ik met automatisering doen.
-- De invoer opdracht wordt bewaard, het resultaat wordt bewaard.
-- Ik wil als admin en als eindgebruiker op een gepubliceerde website de foto's beoordelen.
-- De tekst die is gebruikt bij beoordeelde foto's krijgt een beoordeling die wordt bewaard. Welke tekst een hogere beoordeling krijgt wordt vaker gebruikt.
-- De foto's worden af en toe op een Social Media account gedeeld. (Handige van automatisering is dus elke vrijdag middag, bij uitzondering op volle maan dan op donderdag. Bij feestdagen juist op dinsdag...)
-- De score wordt bijgewerkt op basis van het aantal social media reacties.
-- Dit hele platform wordt universeel waardoor ik als input kan geven: "Geef mij een foto patroon van een nieuw design gebasseerd op islamitisch historie van andalusia en het ottomaanse rijk...".
-[4-6-2024 12:55] : Het leuke is dat ik dit wil doen met meerdere AI foto generators. En daarna kan benchmarken welke de betere resultaten geeft.
-[4-6-2024 12:55] : Slapend rijk worden.
-[4-6-2024 12:55] : En natuurlijk dat alles weer wordt gebaseerd op Islam.
-[4-6-2024 12:55] : Serieus: Heel veel social media kanalen worden nu bediend door dit soort bots. En als je kijkt hoeveel geld ze ermee verdienen is het niet normaal meer...
+Met dit nieuwe project wordt de kracht van AI gecombineert met de rijke, culturele en traditionele waaardes van de Islam. Het doel is om unieke, Islamitisch geïnspireerde patronen te creëren met behulp van kunstmatige intelligentie. Ik heb inspiratie gevonden in verschillende Instagram-kanalen die kleding en gebouwen delen, allemaal geworteld in onze Islamitische cultuur.
+
+Inspiratie bron 1
+https://www.instagram.com/reel/C5g9kveiTgL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
+Inspiratie bron 2
+https://www.turkevi.biz/ deze insta account werkt niet meer maar de foto's staan op de site
+
+Wat ik voor ogen heb:
+
+- Een GitHub-repository die volledig open source is, inclusief de scripts die gebruikt worden voor input en de gegenereerde afbeeldingen als resultaat.
+- Het gebruik van Jenkins of GitHub Actions in de cloud om het proces te automatiseren, rekening houdend met de laatste trends op sociale media, nieuwswebsites, zoekmachines en webwinkels.
+- Een systeem dat gedeeltelijk tijdgebonden is, aangezien veel AI-tools slechts een beperkt aantal keer per dag gebruikt kunnen worden. Met automatisering wil ik deze beperking opheffen.
+- Het bewaren van zowel de inputopdrachten als de resultaten.
+- Een gepubliceerde website waar ik als beheerder en eindgebruiker de gegenereerde afbeeldingen kan beoordelen.
+- Een beoordelingssysteem voor de teksten die gebruikt worden bij de beoordeelde afbeeldingen, waarbij teksten met hogere beoordelingen vaker gebruikt zullen worden.
+- Het periodiek delen van afbeeldingen op een social media-account, geautomatiseerd op specifieke tijden zoals elke vrijdagmiddag, of bij volle maan op donderdag, en op feestdagen op dinsdag.
+- Een score die wordt bijgewerkt op basis van het aantal reacties op sociale media.
+- Dit platform zal universeel zijn, waardoor ik als input kan geven: “Geef mij een fotopatroon van een nieuw ontwerp gebaseerd op de Islamitische geschiedenis van Andalusië en het Ottomaanse Rijk.” Het idee is om dit te doen met meerdere AI-fotogeneratoren en vervolgens te benchmarken welke de beste resultaten levert.
+
+Het doel is om op een innovatieve manier inkomsten te genereren, en natuurlijk zal alles gebaseerd zijn op Islamitische principes. Het is opmerkelijk hoeveel social media-kanalen tegenwoordig worden beheerd door dergelijke bots, en de inkomsten die ze genereren zijn ongelooflijk.
 
 links:  
 https://medium.com/globant/integrating-chatgpt-with-github-actions-in-your-ci-cd-flow-c1d997f8473b  
